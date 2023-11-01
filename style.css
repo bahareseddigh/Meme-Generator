@@ -1,0 +1,8 @@
+.meme-generator{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.meme-generator img{
+    height: 430px;
+    object-fit: cover;
+}
